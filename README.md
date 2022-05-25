@@ -6,7 +6,7 @@ https://notch-curiosity-62d.notion.site/Detecting-depression-in-Social-Media-usi
 
 I have taken an already collected and combined dataset from https://github.com/swcwang/depression-detection since they were kind enough to open source a dataset for depression detection that they built and combined to get optimal results with their models
 
-you can look over their Data Collection model {here}["https://github.com/swcwang/depression-detection#collecting-data"]
+you can look over their Data Collection model here -> https://github.com/swcwang/depression-detection#collecting-data
 
 Here I have used Torchtext, a Pytorch library for preprocessing of the twitter data.
 
